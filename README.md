@@ -1,3 +1,7 @@
+---
+title: Chiki's Chase
+---
+
 ![Chiki's Chase Logo](assets/promo/feature_graphic_500.png)
 
 Chiki's Chase is a cute action game about a chicken, Chiki, armed with a powerful squawk that can defeat enemies in their path. Rampage through an endless desert that becomes tougher the farther you go. But don't worry, Chiki gets tougher too - randomized upgrades are unlocked with progress in every play through, keeping things challenging and exciting. Every play through is a new experience!
