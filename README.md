@@ -6,14 +6,17 @@ Chiki's Chase is a cute action game about a chicken, Chiki, armed with a powerfu
 
 # Over 15 Upgrades
 Plenty of upgrade combinations make running and gunning exciting and catered to your play style.
+
 ![The upgrade select screen](assets/promo/screenshot_upgrades.png)
 
 # Enemies & Obstacles Everywhere
 New and harder hurdles keep coming as you make your way deeper into the desert. Later levels need a ton of concentration and patience!
+
 ![Gameplay showing enemies firing at you](assets/promo/screenshot_enemies.png)
 
 # Try Again and Again
 The game isn't over, as long as you picked up enough coins to buy a retry! Start again at the last checkpoint to gives things another shot.
+
 ![Gameplay showing that the player just died :(](assets/promo/screenshot_death.png)
 
 # Free Forever
